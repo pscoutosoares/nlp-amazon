@@ -2,7 +2,7 @@
 
 ## [Slide da apresentação](/pln-amazon.pdf)
 ## [Video da apresentação](https://youtu.be/W4CBkr0bJW4)
-## [ipynb](/nlp_amazon.ipynb)
+## [Código - ipynb](/nlp_amazon.ipynb)
 
 
 ## Contexto do Problema
