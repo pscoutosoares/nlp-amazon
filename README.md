@@ -1,5 +1,10 @@
 # Análise de Sentimentos em Reviews da Amazon
 
+## [Slide da apresentação](/pln-amazon.pptx.pdf)
+## [Video da apresentação](/)
+## [ipynb](/nlp_amazon.ipynb)
+
+
 ## Contexto do Problema
 
 No e-commerce, dois problemas críticos afetam diretamente a experiência de compra e as vendas:
