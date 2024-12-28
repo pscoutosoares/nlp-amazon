@@ -1,6 +1,6 @@
 # Análise de Sentimentos em Reviews da Amazon
 
-## [Slide da apresentação](/pln-amazon.pptx.pdf)
+## [Slide da apresentação](/pln-amazon.pdf)
 ## [Video da apresentação](/)
 ## [ipynb](/nlp_amazon.ipynb)
 
